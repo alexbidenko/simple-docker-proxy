@@ -1,4 +1,4 @@
-# Simple Docker Prody
+# Simple Docker Proxy
 
 For local development:
 
